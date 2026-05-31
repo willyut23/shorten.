@@ -1,7 +1,3 @@
-# shorten.
-It's a self-hosted URL shortener you run locally on your computer.
-# shorten.
-
 **Paste long. Get short.**
 
 A self-hosted URL shortener that runs entirely on your machine. No accounts, no cloud, no tracking. Just a clean dark interface and a local database.
